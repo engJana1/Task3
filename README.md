@@ -20,5 +20,7 @@ Design and program any electronic circuit containing ESP with any sensor or elec
 
 ![Screenshot 2024-07-29 192600](https://github.com/user-attachments/assets/54225bcb-6af9-41f0-8828-2675ffe4ca74)
 
+# Circuit operation link 
+- https://wokwi.com/projects/404761635197500417
 
 
